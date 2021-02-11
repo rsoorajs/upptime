@@ -40,19 +40,19 @@
     "url": "https://mananchawla.ml/index",
     "icon": "https://favicons.githubusercontent.com/mananchawla.ml",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 551,
-    "timeWeek": 426,
-    "timeMonth": 390,
-    "timeYear": 384,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 383,
+    "timeDay": 515,
+    "timeWeek": 419,
+    "timeMonth": 388,
+    "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-02-11": 0
+      "2021-02-11": 12
     }
   },
   {
