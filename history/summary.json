@@ -4,9 +4,9 @@
     "url": "https://www.usrt.cf/",
     "icon": "https://favicons.githubusercontent.com/www.usrt.cf",
     "slug": "url-shortner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1739,
     "timeMonth": 2647,
     "timeYear": 2521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   },
   {
     "name": "Tindog",
@@ -40,19 +42,19 @@
     "url": "https://mananchawla.ml/index",
     "icon": "https://favicons.githubusercontent.com/mananchawla.ml",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "59.79%",
-    "uptimeWeek": "94.26%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.86%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "60.19%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.87%",
     "time": 425,
     "timeDay": 532,
     "timeWeek": 481,
     "timeMonth": 433,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2021-02-12": 551,
+      "2021-02-12": 545,
       "2021-02-11": 28
     }
   },
