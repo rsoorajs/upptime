@@ -13,7 +13,7 @@
     "time": 2447,
     "timeDay": 1959,
     "timeWeek": 1572,
-    "timeMonth": 2568,
+    "timeMonth": 2583,
     "timeYear": 2447,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 303,
     "timeDay": 165,
     "timeWeek": 432,
-    "timeMonth": 317,
+    "timeMonth": 320,
     "timeYear": 303,
     "dailyMinutesDown": {}
   },
@@ -40,19 +40,19 @@
     "url": "https://mananchawla.ml/index",
     "icon": "https://favicons.githubusercontent.com/mananchawla.ml",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "98.60%",
-    "uptimeDay": "90.10%",
-    "uptimeWeek": "92.71%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.60%",
+    "status": "up",
+    "uptime": "98.54%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "92.42%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.54%",
     "time": 427,
-    "timeDay": 465,
-    "timeWeek": 475,
-    "timeMonth": 435,
+    "timeDay": 502,
+    "timeWeek": 474,
+    "timeMonth": 437,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2021-02-13": 142,
+      "2021-02-13": 172,
       "2021-02-12": 564,
       "2021-02-11": 28
     }
@@ -71,7 +71,7 @@
     "time": 482,
     "timeDay": 555,
     "timeWeek": 432,
-    "timeMonth": 467,
+    "timeMonth": 446,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2021-01-30": 18
