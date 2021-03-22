@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
-    "time": 2347,
-    "timeDay": 2001,
-    "timeWeek": 1975,
-    "timeMonth": 2334,
-    "timeYear": 2347,
+    "time": 2325,
+    "timeDay": 692,
+    "timeWeek": 1801,
+    "timeMonth": 2298,
+    "timeYear": 2325,
     "dailyMinutesDown": {
       "2021-02-25": 47
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
-    "time": 461,
-    "timeDay": 306,
-    "timeWeek": 266,
-    "timeMonth": 712,
-    "timeYear": 461,
+    "time": 458,
+    "timeDay": 261,
+    "timeWeek": 267,
+    "timeMonth": 715,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2021-02-25": 47
     }
@@ -45,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/mananchawla.ml",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "80.68%",
+    "uptime": "80.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.67%",
-    "uptimeYear": "80.68%",
+    "uptimeMonth": "76.95%",
+    "uptimeYear": "80.95%",
     "time": 395,
-    "timeDay": 419,
-    "timeWeek": 468,
-    "timeMonth": 801,
+    "timeDay": 331,
+    "timeWeek": 445,
+    "timeMonth": 781,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2021-03-01": 31,
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 396,
-    "timeDay": 250,
-    "timeWeek": 290,
-    "timeMonth": 290,
+    "timeDay": 389,
+    "timeWeek": 285,
+    "timeMonth": 300,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2021-01-30": 18
